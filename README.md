@@ -1,5 +1,8 @@
 # Вадим Куликов
 
+[Email](mailto:akarinokadze@yandex.ru) / [Website](https://akarinokadze.github.io/akarinokadze/) / [GitHub](https://github.com/Akarinokadze) /  [Telegram](https://t.me/Akari_no_kadze)
+
+
 # Опыт работы
 
 | Компания | Должность | Обязанности | Период работы |

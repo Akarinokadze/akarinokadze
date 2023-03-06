@@ -1,12 +1,11 @@
 [Email](mailto:akarinokadze@yandex.ru) / [Website](https://akarinokadze.github.io/akarinokadze/) / [GitHub](https://github.com/Akarinokadze) /  [Telegram](https://t.me/Akari_no_kadze) / [LinkedIn](https://www.linkedin.com/in/vadim-kulikov-11781a246/) / [Kaggle](https://www.kaggle.com/akarinokadze)
 
-
 # Опыт работы
 
 | Компания | Должность | Обязанности | Период: с | Период: по |
 | :--- | :--- | --- | :---: | :---: |
-| [Nimbler](https://nimbler.app/) | Data Scientist | Сбор и разметка данных для приложения контроля трат. Разработка моделей категоризации трат. | 08.2022 | Н.В. |
-| [АО "НПО "КРИПТЕН"](https://www.krypten.ru/) | Начальник R&D | Управление разработкой новых и улучшение существующих средств защиты спец-документов. | 05.2018 | Н.В. |
+| [Nimbler](https://nimbler.app/) | Data Scientist | Организация сбора и разметки данных на платформе toloka.ai для приложения контроля трат. Разработка моделей категоризации трат. | 08.2022 | Н.В. |
+| [АО "НПО "КРИПТЕН"](https://www.krypten.ru/) | Начальник R&D | Управление разработкой новых и улучшение существующих средств защиты спец-документов. Анализ бизнес и технологических процессов. | 05.2018 | Н.В. |
 
 # Высшее образование
 
@@ -60,22 +59,26 @@
 | [Оценка риска ДТП](https://github.com/Akarinokadze/practicum_projects/tree/main/machine_learning/car_accident_risk) | Нужно создать систему для каршеринговой компании, которая могла бы оценить риск ДТП по совокупности факторов. Как только водитель забронировал автомобиль, сел за руль и выбрал маршрут, система должна оценить уровень риска. Если уровень риска высок, водитель увидит предупреждение и рекомендации по маршруту. | Jupyter Notebook, Python - *pandas, numpy, plotly, matplotlib, pandas_profiling, snap, sklearn, sqlalchemy, lightgbm, catboost* |
 
 ## Временные ряды
+
 | Название проекта | Описание | Стек | 
 | :--- | --- | :--- |
 | [Прогнозирование заказов такси](https://github.com/Akarinokadze/practicum_projects/tree/main/time_series/taxi_order_forecast) | Компания «Чётенькое такси» собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. | Jupyter Notebook, Python - *os, pandas, numpy, plotly, matplotlib, sklearn, statsmodels, lightgbm* |
 
 ## Нейронные сети
+
 | Название проекта | Описание | Стек | 
 | :--- | --- | :--- |
 | [Прогнозирование температуры звезды](https://github.com/Akarinokadze/practicum_projects/tree/main/neural_networks/star_temperature_prediction) | Нам пришла задача от обсерватории «Небо на ладони»: придумать, как с помощью нейросети определять температуру на поверхности обнаруженных звёзд. | Jupyter Notebook, Python - *os, pandas, numpy, plotly, tqdm, pandas_profiling, sklearn, pytorch* |
 
 ## NLP
+
 | Название проекта | Описание | Стек | 
 | :--- | --- | :--- |
 | [Мастерская. KPMI.ru](https://github.com/Akarinokadze/practicum_projects/tree/main/NLP/kpmi) | Тест «Ключи персонального мастерства» предназначен для определения индивидуального поведенческого стиля личности. Является оригинальной отечественной разработкой на базе широко известного типологического опросника Майер-Бриггс. С помощью моделей классического машинного обучения попробуем улучшить качество предсказания сферы деятельности в которой человек сможет максимально самореализоваться. | Jupyter Notebook, Python - *os, pandas, numpy, matplotlib, seaborn, pymorphy2, statsmodels, sys, re, nltk, collections, symspellpy, sklearn* |
 | [Проект для «Викишоп» с BERT](https://github.com/Akarinokadze/practicum_projects/tree/main/NLP/toxic_comments) | Интернет-магазин «Викишоп» запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. Обучим модель классифицировать комментарии на позитивные и негативные. | Jupyter Notebook, Python - *os, pandas, pandas_profiling, numpy, matplotlib, seaborn, re, nltk, sklearn, pytorch, transformers, tqdm, pickle* |
 
 ## CV
+
 | Название проекта | Описание | Стек | 
 | :--- | --- | :--- |
 | [Определение возраста покупателей](https://github.com/Akarinokadze/practicum_projects/tree/main/CV/customer_age_recognition) | Сетевой супермаркет «Хлеб-Соль» внедряет систему компьютерного зрения для обработки фотографий покупателей. Построим модель, которая по фотографии определит приблизительный возраст человека. | Jupyter Notebook, Python - *pandas, numpy, matplotlib, plotly, keras* |

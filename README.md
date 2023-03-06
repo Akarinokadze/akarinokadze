@@ -1,5 +1,3 @@
-# Вадим Куликов
-
 [Email](mailto:akarinokadze@yandex.ru) / [Website](https://akarinokadze.github.io/akarinokadze/) / [GitHub](https://github.com/Akarinokadze) /  [Telegram](https://t.me/Akari_no_kadze) / [LinkedIn](https://www.linkedin.com/in/vadim-kulikov-11781a246/) / [Kaggle](https://www.kaggle.com/akarinokadze)
 
 
@@ -7,7 +5,7 @@
 
 | Компания | Должность | Обязанности | Период: с | Период: по |
 | :--- | :--- | --- | :---: | :---: |
-| [Nimbler](https://nimbler.info/) | Data Scientist | Сбор и разметка данных для приложения контроля трат. Разработка моделей категоризации трат. | 08.2022 | Н.В. |
+| [Nimbler](https://nimbler.app/) | Data Scientist | Сбор и разметка данных для приложения контроля трат. Разработка моделей категоризации трат. | 08.2022 | Н.В. |
 | [АО "НПО "КРИПТЕН"](https://www.krypten.ru/) | Начальник R&D | Управление разработкой новых и улучшение существующих средств защиты спец-документов. | 05.2018 | Н.В. |
 
 # Высшее образование

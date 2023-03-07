@@ -1,4 +1,4 @@
-[Email](mailto:akarinokadze@yandex.ru) / [Website](https://akarinokadze.github.io/akarinokadze/) / [GitHub](https://github.com/Akarinokadze) /  [Telegram](https://t.me/Akari_no_kadze) / [LinkedIn](https://www.linkedin.com/in/vadim-kulikov-11781a246/) / [Kaggle](https://www.kaggle.com/akarinokadze)
+[Email](mailto:akarinokadze@yandex.ru) / [Online CV](https://akarinokadze.github.io/akarinokadze/) / [GitHub](https://github.com/Akarinokadze) /  [Telegram](https://t.me/Akari_no_kadze) / [LinkedIn](https://www.linkedin.com/in/vadim-kulikov-11781a246/) / [Kaggle](https://www.kaggle.com/akarinokadze)
 
 # Опыт работы
 

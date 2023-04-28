@@ -2,9 +2,9 @@
 
 Data Scientist и руководитель отдела R&D в сфере защитной полиграфии.
 
-За время учёбы в Яндекс.Практикум [освоил](https://github.com/Akarinokadze/akarinokadze/blob/gh-pages/%D0%9A%D1%83%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%92%D0%B0%D0%B4%D0%B8%D0%BC%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87_20232DSP00024.pdf) Python, SQL и основные инструменты для машинного обучения. Дополнительно прошёл курсы по Python: [67](https://github.com/Akarinokadze/akarinokadze/blob/gh-pages/stepik-certificate-67-c8dbeec.pdf) и [512](https://github.com/Akarinokadze/akarinokadze/blob/gh-pages/stepik-certificate-512-1fd27d8.pdf) от Института биоинформатики.
+За время учёбы в Яндекс.Практикум [освоил](https://github.com/Akarinokadze/akarinokadze/blob/gh-pages/%D0%9A%D1%83%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%92%D0%B0%D0%B4%D0%B8%D0%BC%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87_20232DSP00024.pdf) Python, SQL и основные инструменты для машинного обучения. Дополнительно прошёл курсы по Python: [67](https://github.com/Akarinokadze/akarinokadze/blob/gh-pages/stepik-certificate-67-c8dbeec.pdf) и [512](https://github.com/Akarinokadze/akarinokadze/blob/gh-pages/stepik-certificate-512-1fd27d8.pdf) и по основам статистики: [76](https://github.com/Akarinokadze/akarinokadze/blob/gh-pages/stepik-certificate-76-e4d5b0d.pdf) от Института биоинформатики.
 
-Работаю в стартапе приложения для контроля финансов Nimbler app в роли Data Scientist’а. Изучаю фреймворк Kedro и готовлю модели к внедрению в качестве микросервиса на его основе.
+Работаю в стартапе приложения для контроля финансов Nimbler app в роли Data Scientist’а. Изучаю ML system design и готовлю модели к внедрению в приложение в качестве микросервиса.
 
 Пять лет опыта руководителем группы разработчиков. С азартом берусь за выполнение задач с неочевидным решением. Работая технологом довёл от идеи до промышленной реализации ряд решений, в том числе для международного рынка, на два из них получил патенты.
 

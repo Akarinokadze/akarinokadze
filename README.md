@@ -1,4 +1,4 @@
-[Email](mailto:akarinokadze@yandex.ru) / [Online CV](https://akarinokadze.github.io/akarinokadze/) / [PDF CV](https://github.com/Akarinokadze/akarinokadze/blob/gh-pages/vadim%20kulikov%20-%20data%20scientist%20v4.pdf) / [GitHub](https://github.com/Akarinokadze) /  [Telegram](https://t.me/Akari_no_kadze) / [LinkedIn](https://www.linkedin.com/in/kulikov-vadim/) / [Kaggle](https://www.kaggle.com/akarinokadze)
+[Email](mailto:akarinokadze@yandex.ru) / [Online CV](https://akarinokadze.github.io/akarinokadze/) / [PDF CV](https://github.com/Akarinokadze/akarinokadze/blob/gh-pages/%D0%92%D0%B0%D0%B4%D0%B8%D0%BC%20%D0%9A%D1%83%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%20-%20data%20scientist%20CV.pdf) / [GitHub](https://github.com/Akarinokadze) /  [Telegram](https://t.me/Akari_no_kadze) / [LinkedIn](https://www.linkedin.com/in/kulikov-vadim/) / [Kaggle](https://www.kaggle.com/akarinokadze)
 
 Data Scientist и руководитель отдела R&D в сфере защитной полиграфии.
 

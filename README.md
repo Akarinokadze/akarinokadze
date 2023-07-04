@@ -38,6 +38,12 @@ Data Scientist и руководитель отдела R&D в сфере защ
 | [Stepik Python: основы и применение](https://stepik.org/course/512/info) | Дистанционная | [Сертификат](https://github.com/Akarinokadze/akarinokadze/blob/gh-pages/stepik-certificate-512-1fd27d8.pdf) |
 | [Stepik Основы статистики](https://stepik.org/course/76/info) | Дистанционная | [Сертификат](https://github.com/Akarinokadze/akarinokadze/blob/gh-pages/stepik-certificate-76-e4d5b0d.pdf) |
 
+# Хакатоны
+
+| Название | Описание | Стек | Статус/Сертификат |
+| :--- | --- | :--- | :---: |
+| [Исследовательский хакатон Яндекс Практикума](https://github.com/Akarinokadze/mentoring_hackathon) | Проведение исследования по теме наставничества и менторства на основании контента социальной сети Linkedin, размещенного в открытом доступе, созданного целевой аудиторией. | Jupyter Notebook, Python - *pandas, numpy, matplotlib, re, nltk, sklearn, plotly, spacy* | В процессе. |
+
 # Проекты Nimbler app
 
 | Название проекта | Описание | Стек |

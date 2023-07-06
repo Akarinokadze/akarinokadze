@@ -42,7 +42,7 @@ Data Scientist и руководитель отдела R&D в сфере защ
 
 | Название | Описание | Стек | Статус/Сертификат |
 | :--- | --- | :--- | :---: |
-| [Исследовательский хакатон Яндекс Практикума](https://github.com/Akarinokadze/mentoring_hackathon) | Проведение исследования по теме наставничества и менторства на основании контента социальной сети Linkedin, размещенного в открытом доступе, созданного целевой аудиторией. | Jupyter Notebook, Python - *pandas, numpy, matplotlib, re, nltk, sklearn, plotly, spacy* | В процессе. |
+| [Исследовательский хакатон Яндекс Практикума](https://github.com/Akarinokadze/mentoring_hackathon) | Участие в кросс-функциональном хакатоне по тематическому анализу публикаций в социальной сети LinkedIn, выявление постов на тему наставничества и менторства: <br/> - сбор и подготовках исходных данных; <br/> - тематическое моделирование публикаций; <br/> - анализ полученных результатов (выделение наиболее популярных тем, ключевых слов). | Jupyter Notebook, Python - *pandas, numpy, matplotlib, re, nltk, sklearn, plotly, spacy* | [Сертификат](https://github.com/Akarinokadze/akarinokadze/blob/gh-pages/%D0%A5%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD%20LinkedIn.pdf) / [Certificate](https://github.com/Akarinokadze/akarinokadze/blob/gh-pages/Hackathone%20LinkedIn.pdf) |
 
 # Проекты Nimbler app
 

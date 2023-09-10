@@ -38,10 +38,11 @@ Data Scientist и руководитель отдела R&D в сфере защ
 | [Stepik Python: основы и применение](https://stepik.org/course/512/info) | Дистанционная | [Сертификат](https://github.com/Akarinokadze/akarinokadze/blob/gh-pages/stepik-certificate-512-1fd27d8.pdf) |
 | [Stepik Основы статистики](https://stepik.org/course/76/info) | Дистанционная | [Сертификат](https://github.com/Akarinokadze/akarinokadze/blob/gh-pages/stepik-certificate-76-e4d5b0d.pdf) |
 
-# Хакатоны
+# Хакатоны / Мастерские
 
 | Название | Описание | Стек | Статус/Сертификат |
 | :--- | --- | :--- | :---: |
+| [Мастерская BigData PySpark Chicago taxi dispatch](https://github.com/Akarinokadze/workshop_pyspark_taxi) | Мастерская по обработке больших данных. Предсказание порайонного количества заказов такси с помощью вычислительного кластера Spark развёрнутого в Docker-контейнерах. | JupyterLab, PySpark, MLlib, Docker, Python - *os, pandas, numpy, matplotlib, seaborn, statsmodels, tqdm* | Завершена |
 | [Исследовательский хакатон Яндекс Практикума](https://github.com/Akarinokadze/mentoring_hackathon) | Участие в кросс-функциональном хакатоне по тематическому анализу публикаций в социальной сети LinkedIn, выявление постов на тему наставничества и менторства: <br/> - сбор и подготовках исходных данных; <br/> - тематическое моделирование публикаций; <br/> - анализ полученных результатов (выделение наиболее популярных тем, ключевых слов). | Jupyter Notebook, Python - *pandas, numpy, matplotlib, re, nltk, sklearn, plotly, spacy* | [Сертификат](https://github.com/Akarinokadze/akarinokadze/blob/gh-pages/%D0%A5%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD%20LinkedIn.pdf) / [Certificate](https://github.com/Akarinokadze/akarinokadze/blob/gh-pages/Hackathone%20LinkedIn.pdf) |
 
 # Проекты Nimbler app
